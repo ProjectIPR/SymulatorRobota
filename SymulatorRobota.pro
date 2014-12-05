@@ -35,3 +35,6 @@ FORMS    += mainwindow.ui \
     zmienhaslo.ui \
     przypomnijhaslo.ui \
     oknooperatora.ui
+    rejestracja.cpp \
+    zalogowanie.cpp
+
