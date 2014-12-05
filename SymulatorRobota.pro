@@ -13,10 +13,16 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    paneluzytkownika.cpp
+    paneluzytkownika.cpp \
+    rejestracja.cpp \
+    zalogowanie.cpp
 
 HEADERS  += mainwindow.h \
-    paneluzytkownika.h
+    paneluzytkownika.h \
+    rejestracja.h \
+    zalogowanie.h
 
 FORMS    += mainwindow.ui \
-    paneluzytkownika.ui
+    paneluzytkownika.ui \
+    rejestracja.ui \
+    zalogowanie.ui
