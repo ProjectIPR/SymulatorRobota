@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 
+class OknoOperatora;
 namespace Ui {
     class MainWindow;
 }
@@ -17,6 +18,7 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    OknoOperatora *oknoOperatora;
 };
 
 #endif // MAINWINDOW_H

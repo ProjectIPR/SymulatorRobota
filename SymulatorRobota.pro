@@ -13,10 +13,25 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    paneluzytkownika.cpp
+    paneluzytkownika.cpp \
+    form.cpp \
+    edycjadanych.cpp \
+    zmienhaslo.cpp \
+    przypomnijhaslo.cpp \
+    oknooperatora.cpp
 
 HEADERS  += mainwindow.h \
-    paneluzytkownika.h
+    paneluzytkownika.h \
+    form.h \
+    edycjadanych.h \
+    zmienhaslo.h \
+    przypomnijhaslo.h \
+    oknooperatora.h
 
 FORMS    += mainwindow.ui \
-    paneluzytkownika.ui
+    paneluzytkownika.ui \
+    form.ui \
+    edycjadanych.ui \
+    zmienhaslo.ui \
+    przypomnijhaslo.ui \
+    oknooperatora.ui

@@ -20,14 +20,14 @@
    <widget class="PanelUzytkownika" name="widget" native="true">
     <property name="geometry">
      <rect>
-      <x>320</x>
-      <y>30</y>
+      <x>360</x>
+      <y>10</y>
       <width>120</width>
       <height>291</height>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: &quot;blue&quot;</string>
+     <string notr="true">background-color: &quot;blue&quot;</string>
     </property>
    </widget>
   </widget>
